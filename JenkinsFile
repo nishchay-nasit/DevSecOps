@@ -15,7 +15,6 @@ pipeline {
             steps {
                 echo "Run unit tests and integration tests"
                 echo "Tools: JUnit and Selenium"
-// hi
             }
         }
 
